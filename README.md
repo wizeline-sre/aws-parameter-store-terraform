@@ -33,3 +33,6 @@ There are two ways to create an SSM Parameter Store using this module:
 
     ```
     A new parameter will be generated with a string with at least 2 uppercase characters, 2 lowercase characters, 2 numbers and 2 special characters.
+
+## License
+This terraform module is distributed under the [MIT License ](https://opensource.org/licenses/MIT), see [LICENSE](./LICENSE) for more information.
